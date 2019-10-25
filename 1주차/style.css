@@ -1,0 +1,20 @@
+* {
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+h1 {
+	color:blue;
+}
+
+body{
+	background-color: #d2b48c;
+}
+
+#div1 {
+	background-color: #F9F249;
+	padding: 10px;
+}
+
+#span1 {
+	background-color: #36FFFF;
+}
